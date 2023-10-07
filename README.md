@@ -2,7 +2,7 @@
 <div align="center">
 
 [![alt text](https://github.com/Mysftz/Mysftz/blob/main/assets/READMEHeader.jpeg?raw=true)](https://github.com/Mysftz)
-# Gyroscope Analysis Report
+# Gyroscope Analysis
 [![GitHub][GitHub-shield]](https://github.com/Mysftz/gyroscope-analysis)
 [![Contributors][contributors-shield]](https://github.com/Mysftz/gyroscope-analysis/graphs/contributors)
 [![Forks][forks-shield]](https://github.com/Mysftz/gyroscope-analysis/network/members)
